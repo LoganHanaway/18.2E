@@ -8,5 +8,5 @@ def product(a, b):
         -4
     """
     return a*b
-product(2, 2)
-product(2, -2)
+# product(2, 2)
+# product(2, -2)
