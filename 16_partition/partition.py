@@ -22,3 +22,4 @@ def partition(lst, fn):
     passed = [item for item in lst if fn(item)]
     failed = [item for item in lst if not fn(item)]
     return [passed, failed]
+
